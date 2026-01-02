@@ -9,29 +9,37 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Amazing Dino Consulting | Strategic Cybersecurity Solutions",
+  title: "Amazing Dino Consulting | AI Strategy & Enterprise Technology Advisory",
   description:
-    "Premium Tier-1 Cybersecurity and Strategic Consultancy for enterprises worldwide. Fractional CISO, SASE Architecture, AI Governance, and multi-framework compliance.",
+    "Transform your enterprise with AI-powered innovation. Strategic technology advisory, AI implementation, cyber resilience, and digital acceleration for forward-thinking executives.",
   keywords: [
-    "cybersecurity consulting",
-    "SASE architecture",
-    "fractional CISO",
-    "enterprise security",
-    "ISO 27001",
-    "SOC 2",
-    "NIST",
-    "GDPR",
+    "AI strategy consulting",
+    "enterprise AI transformation",
+    "generative AI implementation",
+    "digital transformation",
+    "technology advisory",
+    "executive technology consulting",
+    "cyber resilience",
     "AI governance",
-    "cloud security",
-    "DevSecOps",
+    "intelligent automation",
+    "enterprise innovation",
+    "APAC technology expansion",
+    "C-suite advisory",
   ],
   authors: [{ name: "Amazing Dino Consulting" }],
   openGraph: {
-    title: "Amazing Dino Consulting | Strategic Cybersecurity Solutions",
+    title: "Amazing Dino Consulting | AI Strategy & Enterprise Technology Advisory",
     description:
-      "Premium Tier-1 Cybersecurity and Strategic Consultancy for enterprises worldwide.",
+      "Transform your enterprise with AI-powered innovation. Strategic advisory for executives navigating digital transformation and emerging technology.",
     type: "website",
     locale: "en",
+    siteName: "Amazing Dino Consulting",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Amazing Dino Consulting | AI Strategy & Enterprise Advisory",
+    description:
+      "Strategic AI and technology advisory for forward-thinking enterprises.",
   },
 };
 
