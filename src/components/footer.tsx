@@ -47,7 +47,7 @@ export function Footer() {
                 to stay ahead.
               </p>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/company/amazing-dino-consulting/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 text-gray-600 hover:text-teal-600 transition-colors group"

@@ -2,6 +2,8 @@
   "name": "amazingdino-website",
   "compatibility_date": "2026-01-02",
   "assets": {
-    "directory": "./out"
+    "directory": "./out",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "single-page-application"
   }
 }
