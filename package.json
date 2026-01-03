@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "deploy:dev": "npm run build && npx wrangler deploy --config wrangler.dev.jsonc",
+    "deploy:prod": "npm run build && npx wrangler deploy --config wrangler.prod.jsonc"
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.15",
